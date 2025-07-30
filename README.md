@@ -12,3 +12,6 @@ The repository is organized into chapters, each housed in its own folder or file
 - HC5: Higher-order functions, lambdas, and function composition
 - HC6: Recursion, folds, and creating custom map and filter functions
 - HC7: Type classes (e.g., Ord, Show, Read) and defining custom type classes
+- HC8: Data Types, Synonyms, and Records
+- HC9: Parametric Types and Recursion
+- HC10: Custom Type Classes and Instances
