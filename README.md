@@ -15,3 +15,6 @@ The repository is organized into chapters, each housed in its own folder or file
 - HC8: Data Types, Synonyms, and Records
 - HC9: Parametric Types and Recursion
 - HC10: Custom Type Classes and Instances
+- HC11: Simple I/O Programs
+- HC12: Haskell Programs and Modules
+- 
