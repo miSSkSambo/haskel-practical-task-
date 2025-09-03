@@ -20,3 +20,8 @@ The repository is organized into chapters, each housed in its own folder or file
 - HC13: Working with Modules and Directories
 - HC14: Cabal Projects and Advanced Features
 - HC15: Exception and Error Handling
+- HC16: Fundamental Functions
+- HC17: Semigroups and Monoids
+- HC18: Functors and fmap
+- HC19: Applicative Functors and Effects
+- HC20: Monads and Monad Transformers
